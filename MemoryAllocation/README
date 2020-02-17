@@ -1,0 +1,3 @@
+This folder contains a project on memory allocation in operating systems.
+In the first step of the project i used an array to store the bitmap.
+Also threads are used to have multiple access to the memory array to show the mutual exclusion.
